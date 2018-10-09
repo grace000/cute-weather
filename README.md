@@ -9,6 +9,9 @@
 
 Simple weather finder app using Open Weather Map's API. 
 
+![Chicago Weather Example](https://user-images.githubusercontent.com/21062007/46698227-1c217b00-cbdc-11e8-807c-f029ffc62d8f.png)
+---
+
 ## Hotfix:
 - clone this repo
 - npm install the dependencies
