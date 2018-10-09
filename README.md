@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Build with Gatsby's default starter
+  Built with Gatsby's default starter
 </h1>
 
 Simple weather finder app using Open Weather Map's API. 
