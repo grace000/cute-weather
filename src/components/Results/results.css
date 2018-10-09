@@ -1,0 +1,24 @@
+.results-wrapper {
+    display: grid;
+}
+
+.location h1 {
+    font-size: 4em;
+    color: cornflowerblue;
+    margin-top:0;
+}
+p {
+    margin-bottom: .5em;
+}
+.description {
+    font-size: 2em;
+}
+
+.temperature {
+    font-size: 1.5em;
+}
+
+.humidity {
+    color: gray;
+}
+

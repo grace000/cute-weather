@@ -1,0 +1,48 @@
+.Clouds {
+    background-image: url("../../images/cloud.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Rain {
+    background-image: url("../../images/rain.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Drizzle {
+    background-image:url("../../images/drizzle.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Clear {
+    background-image: url("../../images/clear.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Mist {
+    background-image:url("../../images/mist.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Snow {
+    background-image: url("../../images/snow.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Thunderstorm {
+    background-image:url("../../images/thunder.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

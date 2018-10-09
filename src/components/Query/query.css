@@ -1,0 +1,11 @@
+button {
+    background-color: cornflowerblue; 
+    color: #ffffff;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: none;
+    border: 1px solid cornflowerblue;
+    background-color: peachpuff;
+  }

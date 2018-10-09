@@ -1,0 +1,14 @@
+.main-container {
+    display: grid;
+    text-align: center;
+    grid-template-areas:    "query"
+                            "results";
+}
+
+.query-container {
+    grid-area: query;
+}
+
+.results-container {
+    grid-area: results;
+}
